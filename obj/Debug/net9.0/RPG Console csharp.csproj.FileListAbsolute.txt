@@ -1,0 +1,14 @@
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.exe
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.deps.json
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.runtimeconfig.json
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.dll
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.pdb
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.AssemblyInfoInputs.cache
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.AssemblyInfo.cs
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.csproj.CoreCompileInputs.cache
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.dll
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\refint\RPG Console csharp.dll
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.pdb
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.genruntimeconfig.cache
+C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\ref\RPG Console csharp.dll
