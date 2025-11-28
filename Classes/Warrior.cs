@@ -15,7 +15,7 @@ public class Warrior : Player
         defensePerLvl = 1.5f;
         baseMana = 10;
         manaPerLvl = 5;
-        level = 1;
+        level = 2;
 
         spellList.Add(new Regenerate());
         spellList.Add(new criticalAttack());
