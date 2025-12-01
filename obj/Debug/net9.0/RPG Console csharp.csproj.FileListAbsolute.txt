@@ -1,14 +1,29 @@
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.exe
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.deps.json
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.runtimeconfig.json
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.dll
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\bin\Debug\net9.0\RPG Console csharp.pdb
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.AssemblyInfoInputs.cache
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.AssemblyInfo.cs
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.csproj.CoreCompileInputs.cache
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.dll
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\refint\RPG Console csharp.dll
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.pdb
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\RPG Console csharp.genruntimeconfig.cache
-C:\Users\Core i3\Documents\Programação\RPG Console csharp\obj\Debug\net9.0\ref\RPG Console csharp.dll
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/bin/Debug/net9.0/RPG Console csharp.exe
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/bin/Debug/net9.0/RPG Console csharp.deps.json
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/bin/Debug/net9.0/RPG Console csharp.runtimeconfig.json
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/bin/Debug/net9.0/RPG Console csharp.dll
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/bin/Debug/net9.0/RPG Console csharp.pdb
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/RPG Console csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/RPG Console csharp.AssemblyInfoInputs.cache
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/RPG Console csharp.AssemblyInfo.cs
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/RPG Console csharp.csproj.CoreCompileInputs.cache
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/RPG Console csharp.dll
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/refint/RPG Console csharp.dll
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/RPG Console csharp.pdb
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/RPG Console csharp.genruntimeconfig.cache
+C:/Users/Core i3/Documents/Programação/RPG Console csharp/obj/Debug/net9.0/ref/RPG Console csharp.dll
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/bin/Debug/net9.0/RPG Console csharp
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/bin/Debug/net9.0/RPG Console csharp.deps.json
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/bin/Debug/net9.0/RPG Console csharp.runtimeconfig.json
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/bin/Debug/net9.0/RPG Console csharp.dll
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/bin/Debug/net9.0/RPG Console csharp.pdb
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/RPG Console csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/RPG Console csharp.AssemblyInfoInputs.cache
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/RPG Console csharp.AssemblyInfo.cs
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/RPG Console csharp.csproj.CoreCompileInputs.cache
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/RPG Console csharp.sourcelink.json
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/RPG Console csharp.dll
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/refint/RPG Console csharp.dll
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/RPG Console csharp.pdb
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/RPG Console csharp.genruntimeconfig.cache
+/home/bernardo-alves-de-oliveira/Documentos/Programação/RPG-de-console/obj/Debug/net9.0/ref/RPG Console csharp.dll

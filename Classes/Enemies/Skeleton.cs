@@ -17,6 +17,6 @@ public class Skeleton : Enemy
         name = "Skeleton";
         dropGold = 5 + rand.Next(7, 13);
         enemyType = EnemyTypes.Undead;
-        setStats();
+        ResetStats();
     }
 }

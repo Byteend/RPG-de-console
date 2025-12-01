@@ -2,7 +2,7 @@ using System.Security.Cryptography;
 
 public class Player : Entity
 {
-    protected float mana, maxMana, manaPerLvl, baseMana;
+    
     protected int level;
     protected int goldAmount;
     protected float xp, maxXp = 10, maxXpPerLevel = 7;
@@ -25,13 +25,12 @@ public class Player : Entity
         }
     }
 
-    public override void setStats()
+    public override void ResetStats() //Talvez precise adicionar algo neste override no futuro
     {
-        base.setStats();
-        mana = maxMana;
+        base.ResetStats();
     }
 
-    public void UpdateStats()
+    public void UpdateStats() //substituido por SetStats na classe pai
     {
         maxHp = baseHp + (level * hpPerLvl);
         maxMana = baseMana + (level * manaPerLvl);
@@ -40,15 +39,7 @@ public class Player : Entity
         maxDefense = baseDefense + (level * defensePerLvl);
     }
 
-    public void consumeMana(float value)
-    {
-        mana = Math.Clamp(mana - value, 0, maxMana);
-    }
-
-    public void regenMana(float value)
-    {
-        mana = Math.Clamp(mana + value, 0, maxMana);
-    }
+   
 
     public void giveGold(int amount)
     {
@@ -60,10 +51,7 @@ public class Player : Entity
         goldAmount = Math.Clamp(goldAmount - amount, 0, 99999999);
     }
 
-    public float getMana()
-    {
-        return mana;
-    }
+  
     public int getGold()
     {
         return goldAmount;

@@ -17,6 +17,6 @@ public class Bandit : Enemy
         name = "Bandit";
         dropGold = 15 + rand.Next(12, 24);
         enemyType = EnemyTypes.Human;
-        setStats();
+        ResetStats();
     }
 }

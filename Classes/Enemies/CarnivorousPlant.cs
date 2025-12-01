@@ -17,6 +17,6 @@ public class CarnivourousPlant : Enemy
         name = "Carnivourous Plant";
         dropGold = 6 + rand.Next(7, 14);
         enemyType = EnemyTypes.Plant;
-        setStats();
+        ResetStats();
     }
 }

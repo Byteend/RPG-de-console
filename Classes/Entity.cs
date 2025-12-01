@@ -1,10 +1,14 @@
 using System.Text.Json.Serialization.Metadata;
 
 public class Entity
-{
-    protected float hp, maxHp, hpPerLvl, baseHp;
-    protected float attack, maxAttack, attackPerLvl, baseAttack;
-    protected float accuracy, maxAccuracy, accuracyPerLvl, baseAccuracy;
+{   
+    protected float str, baseStr;
+    protected float agi, baseAgi;
+    protected float intl, baseIntl;
+    protected float hp, maxHp, hpPerLvl /*remover depois */, baseHp, hpPerStr;
+    protected float mana, maxMana, manaPerLvl, baseMana, manaPerIntl;
+    protected float attack, maxAttack, attackPerLvl, baseAttack, atkPerStr;
+    protected float accuracy, maxAccuracy, accuracyPerLvl, baseAccuracy, accPerAgi;
     protected float defense, maxDefense, defensePerLvl, baseDefense;
     protected string name = "";
 
@@ -34,7 +38,19 @@ public class Entity
         Console.WriteLine(name + " healed " + value + " of HP!");
        
     }
+ public void consumeMana(float value)
+    {
+        mana = Math.Clamp(mana - value, 0, maxMana);
+    }
 
+    public void regenMana(float value)
+    {
+        mana = Math.Clamp(mana + value, 0, maxMana);
+    }
+      public float getMana()
+    {
+        return mana;
+    }
     public void causeDamage(float value)
     {
         hp -= Math.Clamp(value, 0, maxHp);
@@ -62,11 +78,20 @@ public class Entity
             Console.WriteLine(name + " attack had failed!");
         }
     }
-    public virtual void setStats()
+    public virtual void ResetStats()
     {
         hp = maxHp;
+        mana = maxMana;
         attack = maxAttack;
         accuracy = maxAccuracy;
         defense = maxDefense;
+    }
+
+    public virtual void SetStats()
+    {
+        maxHp = baseHp + (str * hpPerStr);
+        maxMana = baseMana + (intl * manaPerIntl);
+        maxAttack = baseAttack + (str * atkPerStr);
+        maxAccuracy = baseAccuracy + (agi * accPerAgi);
     }
 }

@@ -21,6 +21,6 @@ public class Warrior : Player
         spellList.Add(new criticalAttack());
 
         UpdateStats();
-        setStats();
+        ResetStats();
     }
 }

@@ -17,6 +17,6 @@ public class ShadowKnight : Enemy
         name = "Shadow Knight";
         dropGold = 9 + rand.Next(9, 18);
         enemyType = EnemyTypes.Ghost;
-        setStats();
+        ResetStats();
     }
 }
